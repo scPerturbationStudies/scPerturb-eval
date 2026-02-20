@@ -36,9 +36,7 @@ Model configuration files define the model architecture, the associated hyperpar
 
 ## Data Availability
 
-The preprocessed **Kang et al. (2018)** dataset used in this study is included in the `datasets` folder of this repository.
-
-Additional processed datasets can be added to the same folder. For each new dataset, a corresponding configuration file should be created and placed in the `./configs/data` folder.
+Processed datasets can be added to the same folder. For each new dataset, a corresponding configuration file should be created and placed in the `./configs/data` folder.
 
 ---
 
